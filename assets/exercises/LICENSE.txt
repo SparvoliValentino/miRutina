@@ -1,0 +1,7 @@
+Exercise illustrations by GymBells (https://gymbells.gellyfish.dev/).
+Source: https://github.com/gellyfish-ai/gymbells-exercises
+License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+License text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The illustrations are used in this personal, non-commercial prototype. See sources.json
+for the source pose associated with each local image. Images are unmodified.

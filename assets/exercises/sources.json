@@ -1,0 +1,312 @@
+[
+  {
+    "id": "ex-1",
+    "name": "Barbell Bench Press",
+    "pose": "barbell-bench-press"
+  },
+  {
+    "id": "ex-2",
+    "name": "Dumbbell Bench Press",
+    "pose": "dumbbell-bench-press"
+  },
+  {
+    "id": "ex-3",
+    "name": "Incline Barbell Bench Press",
+    "pose": "barbell-incline-bench-press"
+  },
+  {
+    "id": "ex-4",
+    "name": "Incline Dumbbell Press",
+    "pose": "incline-dumbbell-press"
+  },
+  {
+    "id": "ex-5",
+    "name": "Dumbbell Fly",
+    "pose": "dumbbell-flyes"
+  },
+  {
+    "id": "ex-6",
+    "name": "Cable Crossover",
+    "pose": "cable-crossover"
+  },
+  {
+    "id": "ex-7",
+    "name": "Machine Chest Press",
+    "pose": "leverage-chest-press"
+  },
+  {
+    "id": "ex-8",
+    "name": "Push-Up",
+    "pose": "pushups"
+  },
+  {
+    "id": "ex-9",
+    "name": "Chest Dip",
+    "pose": "chest-dip"
+  },
+  {
+    "id": "ex-10",
+    "name": "Pull-Up",
+    "pose": "pull-up"
+  },
+  {
+    "id": "ex-11",
+    "name": "Band Assisted Pull-Up",
+    "pose": "band-assisted-pull-up"
+  },
+  {
+    "id": "ex-12",
+    "name": "Lat Pulldown, Wide Grip",
+    "pose": "wide-grip-lat-pulldown"
+  },
+  {
+    "id": "ex-13",
+    "name": "Bent-Over Barbell Row",
+    "pose": "bent-over-barbell-row"
+  },
+  {
+    "id": "ex-14",
+    "name": "One-Arm Dumbbell Row",
+    "pose": "one-arm-dumbbell-row"
+  },
+  {
+    "id": "ex-15",
+    "name": "Seated Cable Row",
+    "pose": "seated-cable-row"
+  },
+  {
+    "id": "ex-16",
+    "name": "Machine Row",
+    "pose": "leverage-iso-row"
+  },
+  {
+    "id": "ex-17",
+    "name": "Barbell Deadlift",
+    "pose": "barbell-deadlift"
+  },
+  {
+    "id": "ex-18",
+    "name": "Romanian Deadlift",
+    "pose": "romanian-deadlift"
+  },
+  {
+    "id": "ex-19",
+    "name": "Kneeling Cable Pullover",
+    "pose": "cable-pullover-kneeling"
+  },
+  {
+    "id": "ex-20",
+    "name": "Back Extension",
+    "pose": "hyperextension"
+  },
+  {
+    "id": "ex-21",
+    "name": "Barbell Back Squat",
+    "pose": "barbell-back-squat"
+  },
+  {
+    "id": "ex-22",
+    "name": "Goblet Squat",
+    "pose": "goblet-squat"
+  },
+  {
+    "id": "ex-23",
+    "name": "Dumbbell Bulgarian Split Squat",
+    "pose": "dumbbell-bulgarian-split-squat"
+  },
+  {
+    "id": "ex-24",
+    "name": "Leg Press",
+    "pose": "leg-press"
+  },
+  {
+    "id": "ex-25",
+    "name": "Leg Extension",
+    "pose": "leg-extension"
+  },
+  {
+    "id": "ex-26",
+    "name": "Lying Leg Curl",
+    "pose": "lying-leg-curl"
+  },
+  {
+    "id": "ex-27",
+    "name": "Seated Leg Curl",
+    "pose": "seated-leg-curl"
+  },
+  {
+    "id": "ex-28",
+    "name": "Barbell Hip Thrust",
+    "pose": "barbell-hip-thrust"
+  },
+  {
+    "id": "ex-29",
+    "name": "Dumbbell Lunge",
+    "pose": "dumbbell-lunge"
+  },
+  {
+    "id": "ex-30",
+    "name": "Dumbbell Step-Up",
+    "pose": "dumbbell-step-up"
+  },
+  {
+    "id": "ex-31",
+    "name": "Machine Calf Raise",
+    "pose": "standing-calf-raise"
+  },
+  {
+    "id": "ex-32",
+    "name": "Machine Hip Abduction",
+    "pose": "thigh-abductor"
+  },
+  {
+    "id": "ex-33",
+    "name": "Machine Hip Adduction",
+    "pose": "thigh-adductor"
+  },
+  {
+    "id": "ex-34",
+    "name": "Glute Bridge",
+    "pose": "glute-bridge"
+  },
+  {
+    "id": "ex-35",
+    "name": "Barbell Overhead Press",
+    "pose": "standing-military-press"
+  },
+  {
+    "id": "ex-36",
+    "name": "Dumbbell Shoulder Press",
+    "pose": "dumbbell-shoulder-press"
+  },
+  {
+    "id": "ex-37",
+    "name": "Dumbbell Lateral Raise",
+    "pose": "dumbbell-lateral-raise"
+  },
+  {
+    "id": "ex-38",
+    "name": "Dumbbell Front Raise",
+    "pose": "front-dumbbell-raise"
+  },
+  {
+    "id": "ex-39",
+    "name": "Dumbbell Reverse Fly",
+    "pose": "reverse-flyes"
+  },
+  {
+    "id": "ex-40",
+    "name": "Face Pull",
+    "pose": "face-pull"
+  },
+  {
+    "id": "ex-41",
+    "name": "Machine Shoulder Press",
+    "pose": "machine-shoulder-press"
+  },
+  {
+    "id": "ex-42",
+    "name": "Dumbbell Shrug",
+    "pose": "dumbbell-shrug"
+  },
+  {
+    "id": "ex-43",
+    "name": "Barbell Curl",
+    "pose": "barbell-curl"
+  },
+  {
+    "id": "ex-44",
+    "name": "Dumbbell Curl",
+    "pose": "dumbbell-bicep-curl"
+  },
+  {
+    "id": "ex-45",
+    "name": "Dumbbell Hammer Curl",
+    "pose": "hammer-curl"
+  },
+  {
+    "id": "ex-46",
+    "name": "Barbell Preacher Curl",
+    "pose": "preacher-curl"
+  },
+  {
+    "id": "ex-47",
+    "name": "Cable Curl",
+    "pose": "standing-cable-curl"
+  },
+  {
+    "id": "ex-48",
+    "name": "Triceps Pushdown",
+    "pose": "triceps-pushdown"
+  },
+  {
+    "id": "ex-49",
+    "name": "EZ-Bar Skull Crusher",
+    "pose": "ez-bar-skullcrusher"
+  },
+  {
+    "id": "ex-50",
+    "name": "Dumbbell Triceps Kickback",
+    "pose": "tricep-dumbbell-kickback"
+  },
+  {
+    "id": "ex-51",
+    "name": "Bench Dip",
+    "pose": "bench-dips"
+  },
+  {
+    "id": "ex-52",
+    "name": "Dumbbell Overhead Triceps Extension",
+    "pose": "standing-dumbbell-triceps-extension"
+  },
+  {
+    "id": "ex-53",
+    "name": "Plank",
+    "pose": "plank"
+  },
+  {
+    "id": "ex-54",
+    "name": "Side Plank",
+    "pose": "side-bridge"
+  },
+  {
+    "id": "ex-55",
+    "name": "Crunch",
+    "pose": "crunches"
+  },
+  {
+    "id": "ex-56",
+    "name": "Lying Leg Raise",
+    "pose": "flat-bench-lying-leg-raise"
+  },
+  {
+    "id": "ex-57",
+    "name": "Hanging Knee Raise",
+    "pose": "hanging-knee-raise"
+  },
+  {
+    "id": "ex-58",
+    "name": "Ab Wheel Rollout",
+    "pose": "ab-roller"
+  },
+  {
+    "id": "ex-59",
+    "name": "Russian Twist",
+    "pose": "russian-twist"
+  },
+  {
+    "id": "ex-60",
+    "name": "Cable Crunch",
+    "pose": "cable-crunch"
+  },
+  {
+    "id": "ex-64",
+    "name": "Rowing Machine",
+    "pose": "rowing-machine"
+  },
+  {
+    "id": "ex-66",
+    "name": "Burpee",
+    "pose": "burpee"
+  }
+]
