@@ -12,8 +12,8 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="./assets/icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=4" />
-    <script src="./app.js?v=4" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=5" />
+    <script src="./app.js?v=5" defer></script>
   </head>
   <body>
     <div class="app-shell">
@@ -81,6 +81,10 @@
     <dialog id="exercise-dialog" class="modal exercise-modal" aria-labelledby="exercise-dialog-title">
       <div class="modal-header"><div><p class="eyebrow accent">CATÁLOGO DE EJERCICIOS</p><h2 id="exercise-dialog-title">Elegí un ejercicio</h2></div><button class="icon-button close-exercise-dialog" type="button" aria-label="Cerrar">×</button></div>
       <div class="catalog-tools"><label class="search-field"><span aria-hidden="true">⌕</span><input id="exercise-search" type="search" placeholder="Buscar ejercicio o grupo muscular" aria-label="Buscar ejercicio" /></label><div id="category-filters" class="category-filters"></div></div>
+      <div class="custom-exercise-entry">
+        <button id="other-exercise-btn" class="other-exercise-button" type="button" aria-expanded="false" aria-controls="custom-exercise-form"><span class="other-exercise-icon" aria-hidden="true">＋</span><span><strong>Otro ejercicio</strong><small>Escribí el nombre y agregalo sin foto</small></span></button>
+        <form id="custom-exercise-form" class="custom-exercise-form" hidden><label for="custom-exercise-name">Nombre del ejercicio</label><div><input id="custom-exercise-name" maxlength="60" placeholder="Ej. Paseo del granjero" required /><button class="primary-button" type="submit">Agregar</button></div></form>
+      </div>
       <div id="catalog-list" class="catalog-list"></div>
     </dialog>
 

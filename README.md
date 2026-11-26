@@ -1,6 +1,6 @@
 # Mi Rutina
 
-Prototipo frontend para organizar rutinas de gimnasio por día. Permite crear varias rutinas para un mismo día, elegir ejercicios de un catálogo de 66 opciones, registrar peso, repeticiones y una nota, y editar o eliminar rutinas.
+Prototipo frontend para organizar rutinas de gimnasio por día. Permite crear varias rutinas para un mismo día, elegir ejercicios de un catálogo de 66 opciones o agregarlos con **Otro ejercicio** sin foto, registrar peso, repeticiones y una nota, y editar o eliminar rutinas. Los ejercicios personalizados ya usados se pueden volver a elegir desde la categoría **Personalizados**.
 
 ## Ejecutar
 

@@ -1,9 +1,9 @@
-const CACHE_NAME = 'mi-rutina-shell-v4';
+const CACHE_NAME = 'mi-rutina-shell-v5';
 const root = self.registration.scope;
 const asset = path => new URL(path, root).href;
 const localArtwork = new Set([61, 62, 63, 65]);
 const files = [
-  '', 'index.html', 'styles.css?v=4', 'app.js?v=4', 'manifest.webmanifest',
+  '', 'index.html', 'styles.css?v=5', 'app.js?v=5', 'manifest.webmanifest',
   'assets/icons/icon-192.png', 'assets/icons/icon-512.png',
   'assets/icons/apple-touch-icon.png',
   ...Array.from({length: 66}, (_, i) => i + 1)
